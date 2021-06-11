@@ -15,7 +15,7 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view.
         print("loaded")
         myLabel.textColor = .red
-        myLabel.text = "Welcome"
+        myLabel.text = "Hello World"
         view.backgroundColor = .cyan
     }
 
